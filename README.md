@@ -1,9 +1,9 @@
-# eLwazi, 2023 - GA4GH Starter Kit Practical Sessions
+# iscb-2024, 2024 - GA4GH Starter Kit Practical Sessions
 
 
 ## Introduction
 
-Welcome to the tutorial outline for _**Get Started with GA4GH APIs: An introduction to federated genomics using the GA4GH Starter Kit**_. This tutorial will be (has been) presented at the eLwazi GA4GH technical workshop held on July 10, 2023 - July 14, 2023 in Cape Town, South Africa.
+Welcome to the tutorial outline for _**Get Started with GA4GH APIs: An introduction to federated genomics using the GA4GH Starter Kit**_. This tutorial will be (has been) presented at the iscb-2024 GA4GH technical workshop held on November 12, 2024 in Medellín, Columbia.
 
 The Global Alliance for Genomics and Health (GA4GH) is an international technical standards-setting organization, enabling genomic data sharing. Through its standards, GA4GH aims to promote a federated model of data sharing, in which researchers can seamlessly access data from multiple sources in an international network using common tools and protocols, and data providers can securely share data with trusted researchers while still maintaining ownership and control over their data. 
 
@@ -28,8 +28,8 @@ For the workshop sessions, we will utilize Virtual Machines setup in the Ilifu e
 ### Starter Kits:
 
 ### Part 0: Intro to GA4GH Starter Kit and test the environment set up
-**Time:** July 10, 2023 | 11:45 AM - 1:00 PM SAST \
-**Instructor:** Alex Tsai \
+**Time:** November 12, 2024 | 9:00 AM - 9:45 PM COT \
+**Instructor:**  \
 **Summary:** 
 * Introduction to GA4GH Starter Kit. 
 * Ensure that all required software and tools are downloaded and installed correctly
@@ -39,8 +39,8 @@ For the workshop sessions, we will utilize Virtual Machines setup in the Ilifu e
 ***
 ### Part 1: Data Abstraction and Workflow Execution
 
-**Time:** July 10, 2023 | 2:45 PM - 3:30 PM SAST \
-**Instructor:** Yash Puligundla \
+**Time:** November 12, 2024 | 9:45 AM - 11:00 AM COT \
+**Instructor:**  \
 **Summary:** 
 * Run DRS and WES instances using Docker.
 * Execute a nextflow workflow using WES.
@@ -48,8 +48,8 @@ For the workshop sessions, we will utilize Virtual Machines setup in the Ilifu e
 [**Go to Part 1**](./sessions/starterkits/part_1_drs_wes/README.md)
 ***
 ### Part 2: Data Discovery
-**Time:** July 10, 2023 | 4:30 PM - 5:00 PM SAST \
-**Instructor:** Chen Chen \
+**Time:** November 12, 2024 | 11:00 AM - 12:00 PM COT \
+**Instructor:**  \
 **Summary:** 
 * Run Data Connect instance using Docker.
 * Explore the dataset using the Data Connect endpoints.
@@ -59,8 +59,8 @@ For the workshop sessions, we will utilize Virtual Machines setup in the Ilifu e
 ***
 ### Part 3: Controlled Data Access
 
-**Time:**  July 11, 2023 | 4:00 PM - 5:00 PM SAST \
-**Instructor:** Yash Puligundla \
+**Time:**  November 12, 2024 | 12:00 PM - 1:00 PM COT \
+**Instructor:**  \
 **Summary:** 
 * Run DRS and Passport Broker instances using Docker. 
 * Acting as a researcher, obtain authorization for input datasets based on clearance.

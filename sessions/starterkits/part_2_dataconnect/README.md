@@ -1,5 +1,5 @@
 # Starter Kits (Part 2 Data Connect)
-**Time:** Monday, July 10th, 2022 @ 4:30 pm - 5 pm
+**Time:** Tuesday, November 12th, 2022 @ 11 AM - 12 AM COT
 
 
 ## Outline
@@ -24,7 +24,7 @@ The participants will play the roles of
 
 ## Tutorial
 
-If you have not set up your environment, follow Tutorial Steps 1,2 from [Starter Kits Part 1](https://github.com/ga4gh/Get-Started-with-GA4GH-APIs/blob/elwazi/sessions/starterkits/part_1_drs_wes/README.md)
+If you have not set up your environment, follow Tutorial Steps 1,2 from [Starter Kits Part 1](https://github.com/ga4gh/Get-Started-with-GA4GH-APIs/blob/iscb-2024/sessions/starterkits/part_1_drs_wes/README.md)
 
 ### 1. Run Data Connect and Passport Starter Kit docker containers using docker-compose
 

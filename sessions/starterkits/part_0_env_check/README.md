@@ -63,15 +63,15 @@ docker image ls
 ```
 
 ## 7. Clone the GitHub repository for the Starter Kit tutorial
-Clone the `elwazi` branch of the `ga4gh/Get-Started-with-GA4GH-APIs` repository using the following command:
+Clone the `iscb-2024` branch of the `ga4gh/Get-Started-with-GA4GH-APIs` repository using the following command:
 ```
-git clone -b elwazi https://github.com/ga4gh/Get-Started-with-GA4GH-APIs.git
+git clone -b iscb-2024 https://github.com/ga4gh/Get-Started-with-GA4GH-APIs.git
 ```
 ```
 cd Get-Started-with-GA4GH-APIs
 ```
 
-Make sure you are on the "elwazi" branch. Running the below command should return `elwazi`
+Make sure you are on the "iscb-2024" branch. Running the below command should return `iscb-2024`
 ```
 git branch
 ```
