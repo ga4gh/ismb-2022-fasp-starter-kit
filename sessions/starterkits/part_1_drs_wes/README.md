@@ -5,7 +5,7 @@
 
 **Time:** November 12, 2024 | 9:45 PM - 11:00 PM COT
 
-**Slides:** [link](https://docs.google.com/presentation/d/1R0AZDTl8JAGJgvU8A3ESCk7OKp6l77KW/edit?usp=sharing&ouid=116022107626925645879&rtpof=true&sd=true)
+**Slides:** [link](https://docs.google.com/presentation/d/1HS1e2rRyTNtQJL69wfn0KX8xN-GpPP1r/edit?usp=sharing&ouid=115324368688756029396&rtpof=true&sd=true)
 
 ## Outline
 
