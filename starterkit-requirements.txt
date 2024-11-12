@@ -1,1 +1,3 @@
 requests==2.31.0
+jupyter==1.1.1
+fASP==0.3.0

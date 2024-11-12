@@ -79,12 +79,24 @@ Make sure you have the latest code by running the following command:
 ```
 git pull
 ```
+Create a python virtual environment
+```
+python3 -m venv iscb-2024-env
+```
+Activate the virtual environment 
+```
+source iscb-2024-env/bin/activate
+```
 Install the requirements
 ```
 pip3 install -r starterkit-requirements.txt
 ```
 
 ## 8. Jupyter Notebook
+Run jupyter notebook
+```
+jupyter notebook --ip 0.0.0.0 --port xxxx --no-browser
+```
 Ensure you can access and log in to Jupyter Notebook from your local machine. Use a browser to go to the following URL:
-http://{Public IP of your VM}:8080/
+http://{Public IP of your VM}:xxxx/
 Login using your Jupyter Notebook password, and you should see the `Get-Started-with-GA4GH-APIs` repository listed there.
